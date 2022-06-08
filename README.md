@@ -1,15 +1,13 @@
 # biblioteca-microlins
 <h3>Site feito com a proposta de apresentar um sistema de biblioteca para a microlins de Aracaju desenvolvido em 2016.</h3> 
-<ul>
-  <li>
+  <p>
   <img src="https://user-images.githubusercontent.com/95627229/172688492-b8880076-f0fe-4cd7-b0f3-42335510bc38.png" width="50%">
   <img src="https://user-images.githubusercontent.com/95627229/172687939-a8046edd-8df9-47e0-b5bf-594311ae20ca.png" width="50%">
-  </li>
-  <li>
+  </p>
+  <p>
     <img src="https://user-images.githubusercontent.com/95627229/172688812-edc0f60a-3bab-4d58-9a82-9401932c47e0.png" width="25%">
     <img src="https://user-images.githubusercontent.com/95627229/172689077-832830cd-c7bf-4448-b3bf-53ab6e8754f7.png" width="25%">
-  </li>
-</ul>
+  </p>
 Para executá-lo, será nescessário a instalação de um Apache, Php, e um banco de dados.
 Você pode testar e avaliar utilizando um sistema que já faz todas essas instalações em um unico sistema.
 

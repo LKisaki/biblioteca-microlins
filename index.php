@@ -54,7 +54,7 @@
 
                                     </section>
                                     <footer>
-                                        <label>Desenvolvido por alunos da Microlins. Todos os direitos reservados. <i class="fa fa-registered"></i></label>
+                                        <label>Desenvolvido por Luan Kisaki. Todos os direitos reservados. <i class="fa fa-registered"></i></label>
 
                                     </footer>
 

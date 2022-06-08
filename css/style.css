@@ -1,0 +1,161 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+header{
+	height: 40px;
+	background: #069;
+        margin: 0%;
+}
+
+header h1{
+	font-size: 18px;
+	color: #FFFFFF;
+	margin-top: 10px;
+	margin-left: 2%;
+}
+
+header span{
+	color: #FFFFFF;
+	font-weight: bold;
+	margin-right: 2%;
+	margin-top: 10px;
+}
+
+header h1 i{
+	cursor: pointer;
+
+}
+section{
+	height: 555px;
+}
+
+#menu-lateral{
+position: absolute;
+background: #069;
+height: 605px;
+width:20%;
+left: -20%;
+top: 5%;
+}
+#menu-lateral img{
+	width: 80%;
+	margin-left: 10%;
+	margin-bottom: 2%;
+}
+#menu-lateral ul{
+	list-style:none;
+	margin:0 ;
+}
+#menu-lateral li{
+	color: #FFFFFF;
+	font-family: "Timwes New Roman";
+	cursor: pointer;
+	border-bottom: 2px solid #F1F1F1;
+	margin: 0;
+	width: 80%;
+	margin-top: 2%;
+	margin-left: 10%;
+}
+#menu-lateral li:hover{
+	color:#069;
+	font-weigh: bold;
+}
+
+#menu-lateral span{
+	color: #FFFFFF;
+	margin-left:40%;
+	font-weight: bold;
+
+}
+
+footer{
+	height: 40px;
+	background: #069;
+}
+footer label{
+	color: #FFFFFF;
+	font-weight:bold;
+	margin-left: 35%;
+	margin-top: 1%;
+	font-size: 12px;
+}
+
+/* LOGIN  */
+#logar-se{
+    width: 100%;
+    
+    
+}
+#logar-se form{
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5%;
+    background: #069;
+    padding: 10px;
+}
+#logar-se label,span{
+margin-left: 5%;
+color: #FFFFFF;
+ font-weight: bold;
+}
+#logar-se span{
+    font-size: 25px;
+    
+}
+#logar-se form input{
+    width: 90%;
+    margin-left: 5%;
+}
+#logar-se .btn{
+    margin-left: 5%;
+}
+
+/*   CONSULTAR LIVROS  */
+
+#consultar_livros{
+	margin-left: 0%;
+        width: 100%;
+}
+#consultar_livros form{
+margin-top: 2%;
+width: 100%;
+}
+
+#consultar_livros table{
+    width: 100%;
+}
+
+/*   CLIENTES  */
+
+#clientes{
+	margin-left: 0%;
+        width: 100%;
+}
+
+#clientes form{
+margin-top: 2%;
+width: 100%;
+}
+
+#clientes table{
+    width: 100%;
+}
+
+/*   EMPRESTIMO  */
+
+#emprestimo{
+	margin-left: 0%;
+        width: 100%;
+}
+
+#emprestimo form{
+margin-top: 2%;
+width: 100%;
+}
+
+#emprestimo table{
+    width: 100%;
+}
+
